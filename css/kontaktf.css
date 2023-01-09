@@ -1,0 +1,73 @@
+.booking-card {
+    display: flex;
+    background-color: #f0ffff88;
+    padding: 20px;
+}
+.booking-form {
+    display: grid;
+    background-color: #9e85658e;
+    padding: 50px;
+}
+.contact-us {
+    background-color: #f0ffff88;
+    padding: 50px;
+    color: black;
+    width: 400px;
+    justify-content: center;
+}
+.contact-form {
+    display: grid;
+    background-color: #9e85658e;
+    padding: 20px;
+    border: 2px;
+    border-color: #804f2d9a;
+    border-style: solid;
+    box-shadow: 5px 10px #35201241;
+    width: 350px;
+    justify-self: center;
+    /* justify-items: center; */
+}
+.contact-us h1 {
+    text-align: center;
+}
+.contact-form h3 {
+    text-align: center;
+}
+input {
+    height: 30px;
+}
+input[type=text]:focus {
+    background-color: #5ef8bd85;
+}
+input[type=email]:focus {
+    background-color: #5ef8bd85;
+}
+input[type=tel]:focus {
+    background-color: #5ef8bd85;
+}
+input[type=message] {
+    height: 150px;
+}
+.send-button {
+    justify-self: center;
+}
+input[type=submit] {
+    background-color: #5ef8bd;
+}
+.booking-form {
+    display: grid;
+    background-color: #9e85658e;
+    padding: 20px;
+    border: 2px;
+    border-color: #804f2d9a;
+    border-style: solid;
+    box-shadow: 5px 10px #35201241;
+    justify-self: center;
+}
+.send-button2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+input .villkor:checked {
+    background-color: #5ef8bd;
+}
