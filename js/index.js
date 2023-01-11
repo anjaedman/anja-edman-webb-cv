@@ -59,7 +59,7 @@ console.log("This file is now connected");
 function showerfarenhetMiroiTags() {
     const paragrapherfarenhetMiroiTags = document.getElementById("erfarenhet-miroi-tags")
     if (paragrapherfarenhetMiroiTags.innerText === "") {
-        paragrapherfarenhetMiroiTags.innerText = "Jobbade som coach och servicelärare, där allt från utlärning, prov, läxor samt all annan registrering."
+        paragrapherfarenhetMiroiTags.innerText = "Lärare i service | Coachning | Föreläsare"
     } else {
         paragrapherfarenhetMiroiTags.innerText = ""
     }
@@ -68,7 +68,7 @@ function showerfarenhetMiroiTags() {
 function showerfarenhetTeledialogTags() {
     const paragrapherfarenhetTeledialogTags = document.getElementById("erfarenhet-teledialog-tags")
     if (paragrapherfarenhetTeledialogTags.innerText === "") {
-        paragrapherfarenhetTeledialogTags.innerText = "Jobbade som coach och servicelärare, där allt från utlärning, prov, läxor samt all annan registrering."
+        paragrapherfarenhetTeledialogTags.innerText = "Personlig utveckling | Coachning | Samtalsstöd"
     } else {
         paragrapherfarenhetTeledialogTags.innerText = ""
     }
@@ -76,7 +76,7 @@ function showerfarenhetTeledialogTags() {
 function showerfarenhetLivskunskapTags() {
     const paragrapherfarenhetLivskunskapTags = document.getElementById("erfarenhet-livskunskap-tags")
     if (paragrapherfarenhetLivskunskapTags.innerText === "") {
-        paragrapherfarenhetLivskunskapTags.innerText = "Jobbade som coach och servicelärare, där allt från utlärning, prov, läxor samt all annan registrering."
+        paragrapherfarenhetLivskunskapTags.innerText = "Lärare i livskunskap | Grupputveckling | Elevstöd"
     } else {
         paragrapherfarenhetLivskunskapTags.innerText = ""
     }
@@ -84,7 +84,7 @@ function showerfarenhetLivskunskapTags() {
 function showerfarenhetLocumTags() {
     const paragrapherfarenhetLocumTags = document.getElementById("erfarenhet-locum-tags")
     if (paragrapherfarenhetLocumTags.innerText === "") {
-        paragrapherfarenhetLocumTags.innerText = "Jobbade som coach och servicelärare, där allt från utlärning, prov, läxor samt all annan registrering."
+        paragrapherfarenhetLocumTags.innerText = "Chefsassistent | Kundtjänst | Rikstelefonist"
     } else {
         paragrapherfarenhetLocumTags.innerText = ""
     }
