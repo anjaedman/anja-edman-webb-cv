@@ -294,23 +294,11 @@ background-color: #8F1546;
     width: 505px;
     text-align: center;
     padding-top: 30px;
-
-}
-
-/* .bild2 {
-
-}
-.bild2-overlay {
     
-    background-color: black;
-    position: absolute;
-    opacity: 0;
-    transition: .5s linear;
-    opacity: 1;
+}
 
-    height: 100px;
 
-} */
+
 
 .card-portfolio {
     background-color: black;
